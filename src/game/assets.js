@@ -41,6 +41,5 @@ class AssetsMod {
 }
 
 export default [
-  new AssetsMod('aniki', '哲学♂'),
-  new AssetsMod('24', '牢大'),
+  new AssetsMod('01', '01'),
 ]
